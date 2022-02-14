@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-Use open function to open the file in which we want to copy from and access it in read mode
+Use open function to open the file in which we want to copy from and access it in read mode.
 
 ### Step 2: 
 Read the file and store in a variable.
